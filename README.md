@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m Sameer Ansari
 
-Aspiring Data Scientist 
+<p align="center">
+  <strong><font size="4">Aspiring Data Scientist</font></strong>
+</p>
+
 - 👨🏻‍🎓 A 3rd-year undergrad pursuing Artificial Intelligence and Data Science at Rizvi College of Engineering, Mumbai University
 - 👀 Passionate about Data Science, Machine Learning, Data Analytics, and Deep Learning
 - 🌱 Currently learning Deep Learning concepts such as Neural Networks, Backpropagation, Activation Functions, and exploring frameworks like TensorFlow and PyTorch
