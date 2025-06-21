@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sameer Ansari
 
 <p align="center">
-  <strong><font size="4">AI Engineer</font></strong>
+  <strong><font size="4">AI/ML Developer</font></strong>
 </p>
 
 * 👨🏻‍🎓 A 3rd-year undergrad pursuing Artificial Intelligence and Data Science at Rizvi College of Engineering, Mumbai University
