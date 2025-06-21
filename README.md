@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sameer Ansari
 
 <p align="center">
-  <strong><font size="4">Aspiring Data Scientist & Gen AI Practitioner</font></strong>
+  <strong><font size="4">AI Engineer</font></strong>
 </p>
 
 * 👨🏻‍🎓 A 3rd-year undergrad pursuing Artificial Intelligence and Data Science at Rizvi College of Engineering, Mumbai University
@@ -53,6 +53,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/ansarisameer_31?t=jl_3ttibkqH9BKO62kegCw&s=09)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sameeransari._31)
 
----
-
-Let me know if you'd like to add your **projects**, **certificates**, or a **GitHub stats** section too!
