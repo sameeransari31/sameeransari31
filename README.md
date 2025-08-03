@@ -4,7 +4,7 @@
   <strong><font size="4">AI/ML Developer</font></strong>
 </p>
 
-* 👨🏻‍🎓 A 3rd-year undergrad pursuing Artificial Intelligence and Data Science at Rizvi College of Engineering, Mumbai University
+* 👨🏻‍🎓 A 4th-year undergrad pursuing Artificial Intelligence and Data Science at Rizvi College of Engineering, Mumbai University
 * 👀 Deeply passionate about Generative AI, Large Language Models, Data Science, and Machine Learning
 * 🌱 Currently exploring:
 
